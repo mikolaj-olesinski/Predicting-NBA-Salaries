@@ -1,4 +1,4 @@
-## A detailed report in Polish on NBA earnings prediction based on data from 2000 and 2023 utilized a random forest regression model, along with other statistical techniques and data analysis methods.
+## A detailed report with graphs, tables, and descriptions in Polish on NBA earnings prediction based on data from 2000 to 2023, utilizing a random forest regression model, along with other statistical techniques and data analysis methods.
 
 The final report is in Predicting NBA Salaries.pdf the code is in raport.ipynb and all of the plots and data are in folder data. All of the data is scraped or obtained by using API.
 
